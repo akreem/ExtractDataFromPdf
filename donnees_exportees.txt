@@ -1,0 +1,27 @@
+<file>
+<block>"000"
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+<line>"00000nan";"0000000000nan";"nan                                                                              ";"0000nan";"0000nan";"0";</line>
+</block>
+</file>
+<check>"000027"</check>
